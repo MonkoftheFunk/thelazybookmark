@@ -1,0 +1,2 @@
+The list would contain subject headers and links to be converted. Each link is searched in google and its title and description is fetched to be used in the new exported format.
+The link would be stored under a folder with the name of the subject header and would be easily imported into your browser.
